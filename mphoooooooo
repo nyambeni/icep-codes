@@ -1,13 +1,16 @@
-#include <iostream>
-#include <string>
-using namespace std;
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
 
-int main()
-{
-int num1 = 9;
-string name = "mpho";
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
 
-cout<<name+" "+num1;
-system("pause");
-}
-
+</body>
+</html>
